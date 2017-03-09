@@ -44,7 +44,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Open\Def\OperationsDef\OperationsDef.csproj">
+    <ProjectReference Include="..\..\..\SubModule\Open\Def\OperationsDef\OperationsDef.csproj">
       <Project>{678129f4-a45a-4234-94cf-d2d43109e005}</Project>
       <Name>OperationsDef</Name>
     </ProjectReference>

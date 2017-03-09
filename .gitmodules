@@ -1,0 +1,3 @@
+[submodule "Product\\SubModule"]
+	path = Product\\SubModule
+	url = https://github.com/adityak27/git-submodule-repo
